@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Kitty coding" width="200">
     <h1 align="center">Hi👋, I'm Gonzalo</h1>
     <h3 align="center">A passionate web Front End developer from Argentina. I like learn new 
-        technologies and work together with others.</h3>
+        technologies and work together with my teammates.</h3>
 </div>
 
 <h2>👨‍💻About me:</h2>
