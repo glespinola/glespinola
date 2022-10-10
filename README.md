@@ -20,7 +20,9 @@
 <p align="left" dir="auto">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gonzalo-lionel-espinola-2a96b821a/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gonzalo-lionel-espinola-2a96b821a/" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://stackoverflow.com/users/20198548" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20198548" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://codepen.io/glespinola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="glespinola" height="30" width="40" /></a>
 </p>
+
 
 ---
 
