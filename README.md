@@ -9,7 +9,7 @@
 <div align="left">
   <p>
     🔭 I’m currently working on <a href="https://github.com/glespinola/NS-validator" target="_blank" rel="noopener noreferrer">NS-Validator</a></br>
-    🌱 I’m currently learning <strong>React & C</strong></br>
+    🌱 I’m currently learning <strong>C# & .NET</strong> <br>
     📫 How to reach me <strong><a href="mailto:espinola.gonzalo10@gmail.com">espinola.gonzalo10@gmail.com</a></strong>
   </p>
 </div>
