@@ -8,7 +8,7 @@
 <h2>👨‍💻About me:</h2>
 <div align="left">
   <p>
-    🔭 I’m currently working on <a href="https://github.com/glespinola/NS-validator" target="_blank" rel="noopener noreferrer">NS-Validator</a></br>
+    🔭 I’m currently working on <a href="[https://github.com/glespinola/NS-validator](https://github.com/glespinola/travel-tracker)" target="_blank" rel="noopener noreferrer">Travel-Tracker</a></br>
     🌱 I’m currently learning <strong>C# & React</strong> <br>
     📫 How to reach me <strong><a href="mailto:espinola.gonzalo10@gmail.com">espinola.gonzalo10@gmail.com</a></strong>
   </p>
