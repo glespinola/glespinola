@@ -1,8 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Kitty coding" width="200">
     <h1 align="center">Hi👋, I'm Gonzalo</h1>
-    <h3 align="center">I'm a passionate Front End Developer. I love technologies, learning, and working collaboratively. Let's create something great together! 
-        With a strong focus on continuous improvement, I stay up-to-date with the latest trends and tools in the industry. I thrive in team environments and believe in the power of effective collaboration.</h3>
+    <h3 align="center">I'm a passionate front-end developer. I love technology, learning and collaboration. Let's create great things together! I have a strong focus on continuous improvement, keeping abreast of the latest trends and tools in the industry. I thrive in a team environment and believe in the power of effective collaboration.</h3>
 </div>
 
 <h2>👨‍💻About me:</h2>
